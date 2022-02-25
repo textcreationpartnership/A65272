@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A heavenly visitation to the travelling soul and generation born again of the immortal seed With a testimony of the regenerate and true birth thereunto.</title>
+            <author>Watson, Samuel, ca. 1618-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65272</idno>
+            <idno type="STC">Wing W1097</idno>
+            <idno type="STC">ESTC R220880</idno>
+            <idno type="EEBO-CITATION">99832265</idno>
+            <idno type="PROQUEST">99832265</idno>
+            <idno type="VID">36737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2102:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A heavenly visitation to the travelling soul and generation born again of the immortal seed With a testimony of the regenerate and true birth thereunto.</title>
+                  <author>Watson, Samuel, ca. 1618-1708.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[York? :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated and signed at end: York Castle the 27th of 5th month 1685. Samuel Watson.</note>
+                  <note>Place of publication suggested by cataloger; Wing gives [London].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation --  Early works to 1800.</term>
+               <term>Soul --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36737:1"/>
+            <head>A Heavenly Viſitation TO THE Travelling AND GENERATION Born again of the IMMORTAL SEED.</head>
+            <head type="sub">With a Teſtimony of the Regenerate and True Birth thereunto.</head>
+            <p>THus ſaith the Lord, I am God and changeth not, who provideth for the Faithful in all Ages. The <hi>Jehovah,</hi> and beſides me there is no other God: I made Heaven and Earth, the Sea and the Fountains of Waters: and there is none to be Worſhipped beſides me, neither is their any that can deliver out of my hands (whom I give to deſtruction ſhall be cut off) I am he that delivereth from the Paw of the <hi>Bear,</hi> and Mouth of the <hi>Lyon,</hi> and from the Firey Furnace. I put bounds to the ſwelling rage of the Sea: that it cannot
+<pb facs="tcp:36737:2" rendition="simple:additions"/>
+               <pb n="1" facs="tcp:36737:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:36737:3"/>paſs the limits thereof. My Power is unchangeable, and my viſitation of Love to my tender Seed and Off-ſpring has been (extended) ſince the foundation of the World. And I have called a Remnant by my Name, in whom I have placed my <hi>Fear,</hi> and declared my <hi>Counſel</hi> (which is received in my Light ſhining) in their inward parts; and have given them power to obey at my <hi>Pleaſure,</hi> and my <hi>Glory</hi> is near to be revealed unto them; and this <hi>Seed,</hi> and <hi>Generation,</hi> and <hi>Plants</hi> of my Renown, I have called out of <hi>Kindreds, Tongues</hi> and <hi>Languages,</hi> unto the one heavenly <hi>Canaan,</hi> and eſpouſed them to be my Church, the Church of the firſt Born, written in Heaven; to underſtand the Tongue of the Learned, and poſſeſs a pure Language through the pure Spirit of the Lamb approaching my Throne. I am he that hath formed thee, and given thee a being; and when thou waſt in thy blood, and in <hi>Egypts</hi> darkneſs, I viſited in my Love, and ſaid unto thee Live; and now have I raiſed thee up from Death to Life, and turned thee from Darkneſs to Light, from <hi>Satans</hi> power, under whom thou waſt in Bondage, unto the glorious power of my heaven<g ref="char:EOLhyphen"/>ly life. Now ariſe, ariſe ſhine forth, O <hi>Sion,</hi> ſhake off the duſt of the Earth, and let no impurity cleave to thy Habitation; let thy Gates be Praiſs, and the Poſtes of thy doors Holineſs, that my excellency may deſcend upon thee. Let it be known through the breakings forth of the Splendor of my Glory, the Innocency of thy Life, and the Beauty of thy Garments, to whom thou belongs: (that no weapon formed againſt thee proſper) ſo ſhall it be known of a truth I am the Sword of thy excellency, and thou art ſaved by me; and let thy Child<g ref="char:EOLhyphen"/>like harmleſs life demonſtate what war thou art ingaged in, and in whoſe hands thou art a Battle-ax (Spiritually) to Threſh upon the Mountains, and to Subdue the Hills, that my one Mountain of holineſs may be eſtabliſh on the top of all the Mountains, and my glorious appearance in Spirit and
+<pb n="3" facs="tcp:36737:3" rendition="simple:additions"/>Truth, ſpringing over all the Hills of Oppoſition, and ſinful Contradictions (which grieves my Spirit) and in my Valley (which I have prepared) ſhall the Righteous Branch take root, and grow and ſpread over all Nations, which are before me but as a drop of a Bucket, and the Iſlands as the duſt of the Balance. Then happy are the People that tremble at my Word, in whom my Fear is placed, and walk in the Light of my Countenance, they ſhall proſper and ſhine forth as a glo<g ref="char:EOLhyphen"/>rious Habitation; and in the end of all their Sufferings, which they now paſs through for my Name, ſhall obtain the Crown of Glory.</p>
+            <div type="part">
+               <head>A Teſtimony of the Regenerate <hi>&amp;c.</hi>
+               </head>
+               <p>O Bleſſed Father how great is thy Love, and how grati<g ref="char:EOLhyphen"/>ous is thy Viſitation unto my Immortal ſoul: Now do I hear thy voice in the ſtill calm manifeſtation of thy antient love, wherein thou made known thy ſelf unto the Patriarks of old, though after divers manners thou ſpoke unto them, yet it was in the ſame Power, and the ſame Spirit of thy Son, whom thou haſt appointed Heir of all things before the foun<g ref="char:EOLhyphen"/>dation of the World: In which beloved Son (whom thine is now to hear in this latter Age) thou now ſpeaks and declares thy Mind and Counſel unto me, (whom thou haſt humbled by thy Spirit) and thy voice is pleaſant unto my ſoul, which thou has quickned and raiſed from Death to Life; and through the vertue of the Blood of the Spotleſs Lamb, which ſuffered death upon the Croſs (yet could not ſee corruption) through the one offering in this eternal Spirit, thou haſt purged my Conſcience from dead works, (and dead ſacrifices) and thou haſt waſhed and cleanſed my Garments, which were filthy and poluted, of a deep dye, and ſtain like Crimſon; thou haſt made them as white as Wool, thou haſt given me the fine
+<pb n="4" facs="tcp:36737:4"/>Linnen, and through the deep paſſage of tribulation, in a meaſure implanting me into the likeneſs of (thy Sons) Death and Baptiſm of ſufferings, thou has brought me into the Reſurrection of Life, and implanted me into the new name, where my dwelling is with the Church of the firſt Born, writ<g ref="char:EOLhyphen"/>ten in Heaven. And now, Father, what can I do for thee, who has thus viſited me, with the pouring in of thy Spirit from on high, and declared thy power as in Antient days; &amp; not only ſo, but tranſlated me to the glorious Light and Liberty of thy Son, that in and through the portion of thy Spirit thou mayſt be all in all, in me and through me. Can I any more delight in <hi>Egypts</hi> Glory? can I take up a reſt in any polluted path? can I live any longer in the luſt of my former Converſation, where the War and the Strife lodgeth? can I hearken any more to the wiſdom of faln man, who feeds on the Tree of Knowledg? (then would thy Spirit reprove me) is not my ſoul weaned from <hi>Idolatry,</hi> as the Child is weaned from the Mothers Breſts? and haſt not thou taught me by thy own Spirit of Truth, the Comforter, which leads into all Truth, and gives a departure from Iniquity?
+<note place="margin">
+                     <hi>Colloſ.</hi> 2.11.</note> Surely, Father, thou haſt come near un<g ref="char:EOLhyphen"/>to me with the Circumciſion of thy own Spirit, and haſt inwardly cut of this Body of the Sins of the Fleſh, which polluted my Soul, and vailed my underſtanding, ſo that for want of living Faith, I could not get the Victory over this World, and Spiritual Darkneſs, which covered me, as a Menſtruous Garment,
+<note place="margin">
+                     <hi>Titus</hi> 11, 12, 13.</note> ſo that I could not behold thy Preſence, nor thy Glory ſhining in me; neither could I partake of the Riches of thy Grace, though it appeared in me, I could not lay hold on its Virtue, or believe in its Efficacy, to be taught by it; till thy Power break in as a Hammer, and thy Word became a Fire, to diſſolve and bruiſe that Man of Sin (which lodged in the ſecret Chambers of Darkneſs) &amp; ſearched every corner of my Heart as with thy
+<pb n="5" facs="tcp:36737:4"/>Candle, till I had found what I had loſt; and brake through the Rocks and Earth of ſtrong corruptions, until I found the Pearl of great price in me. Then did I willingly (and not till then) part with all for this moſt ineſtinuable Treaſure, which is of greater value (to my ſoul) then all that is viſible. And accounted all which I had formerly comprehended and gathered (in the faln ſtate) but as Droſs and Dung, in com<g ref="char:EOLhyphen"/>pariſon of this divine excellency, of the grace and knowledg of Chriſt Jeſus my Saviour; in and through whoſe Spirit, holy Father, thou haſt raiſed me from Death to Life, not any more to Worſhip in the oldneſs of the Letter,
+<note place="margin">
+                     <hi>John</hi> 4.23, 24.</note> but in the newneſs of the Spirit, even in thy own Spirit of Truth, not any more to War with Weapons that are Car<g ref="char:EOLhyphen"/>nal, but the Sword of the Spirit which ſlayes, not the Creature, but the enmity in the Creature, and ſo brings peace unto the ſoul, in which now my liſe is bound up in the bundle of thy fatherly Teſtimonies, which thou haſt ſealed up unto me, with thoſe Diſciples that follow the Lamb in the Regenera<g ref="char:EOLhyphen"/>tion. And now, Father, I get me to my Watch-Tower, to hear what thou ſpeaks to my ſoul, for thou ſpeaks peace unto thy People, and Redeemed, that they ſhould not turn back to <hi>Egypts</hi> Folly: and thy name is become a precious oyntment to me, and a Tower of ſafety unto my ſoul, where I find Reſt and Peace, and there is none that can make me afraid, as I here abide under the Shadow of thy Wings; thou ſeeds me with the pleaſant Fruit, and thy Banner over me is Love; thou makes my Bones to Flouriſh; the munition of Rocks is my Defence, my Bread is ſure, my Water is ſure; and the Eye thou haſt opened beholds the King (of <hi>Salem</hi>) in his Beauty, &amp; he Raigns with the Government upon his Shoulders, of the Encreaſe and Peace of which there is no end. Therefore I pray to thee, Father, in thy own Spirit of adoption, which I have received of thee; <hi>Hollowed be thy Name, thy Kingdom come,</hi>
+                  <pb n="6" facs="tcp:36737:5"/>or thou haſt given me to poſſeſs the fruits thereof. <hi>Thy Will be lone in Earth as 'tis in Heaven,</hi> for thou has ſubdued my Will which ruled by Nature, unto thy heavenly will, which is my Sanctification. And now, Father, this is that I beg of thee, that through the glory of thy power, I may be kept in thy word of Patience, to be fully aſſured of thy preſervation in the hour of Temptation, which ſhall come upon all the World to try them that dwell therein. So ſhall my ſoul be made glad and rejoyce in thy beautiful preſence. And here do I reſt and repoſe my ſelf under the ſhadow of thy Wing, until the Calamities and Storms be over paſt, ſith thou haſt aſſured my ſoul in being faithful unto Death I ſhall enjoy the Crown of Life.</p>
+               <p>So in bowels of Love I conclude this ſhort Teſtimony, which opened in me in the Fountain of divine fulneſs, for the ſake of the travelling Soul, and Birth which is not of this World, which in the deep ſence of the fatherly love, has not only known his Voice, to gather from the Mountains, but has received counſell from him, and in obedience to his mind de<g ref="char:EOLhyphen"/>lights now to hearken to him; and loves nothing more then to Honour him, and to anſwer his Requirings, in a daily taking up of the Croſs, and making ſelf of no Reputation, that through the patient exerciſe in all the Sufferings, Impriſonments, Buffettings and Reproaches which this Suffering Seed and Ge<g ref="char:EOLhyphen"/>neration meets with, in its Lamb-like nature it may lie down under all: and in that life which is hid with God in Chriſt, be chearful, and repoſe in the boſom of this beloved (Son of God) who hath overcome the World, and makes his Rem<g ref="char:EOLhyphen"/>nant ſhine with the rayes of his own glory, and gives them through living Faith to overcome, whereby they inherit all things. So let every Individual preſs after this Chriſtian high calling in the Lambs Spirit; and prize the viſitations of a
+<pb n="7" facs="tcp:36737:5"/>heavenly Father to their ſouls, that the mark of holineſs they bear in their forehead, and read daily in the renewing holy Spi<g ref="char:EOLhyphen"/>rit, their names written in the Lambs book of life:
+<note place="margin">
+                     <hi>Math.</hi> 5.34, 35, 36 37.</note> then thou Child of the morning is thy joy full, and in fulfilling unto perpetuity; in the aſſured Teſti<g ref="char:EOLhyphen"/>mony of one who has been taught in Chriſt's School, and learns of him to ſuffer for his Name, who yet continues in the godly patience in outward Bonds (with a Remnant more) for yeilding obedience to his Command (nigh Three Years) and is not weary of well doing, but waits in godly patience till deliverance come, according to his heavenly will who is God over all Bleſſed for ever, <hi>Amen.</hi>
+               </p>
+            </div>
+            <closer>
+               <dateline>York Caſtle <date>the 27th of 5th month 1685.</date>
+               </dateline> 
+               <signed>Samuel Watſon.</signed>
+            </closer>
+            <epigraph>
+               <bibl>Dan. <hi>12.10.</hi>
+               </bibl>
+               <q>Many ſhall be Purified, and made White, and Tryed: but the Wicked ſhall do wickedly, and none of the Wicked ſhall underſtand; but the Wiſe ſhall understand.</q>
+               <bibl>1. Pet. 3.12.</bibl>
+               <q>The eyes of the Lord are over the Righteous, and his ears are open to their Prayers: But the face of the Lord is againſt them that do evil.</q>
+            </epigraph>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
